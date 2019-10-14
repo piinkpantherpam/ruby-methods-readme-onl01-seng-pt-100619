@@ -52,3 +52,7 @@ end
 
 def greeting
 end
+
+def greeting
+  puts "Hello World"
+end
